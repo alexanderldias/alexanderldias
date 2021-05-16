@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexanderldias
 - 👀 I’m interested in Web and Software Devolopment
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Nothing currently
+- 💞️ I’m looking to collaborate on Nothing At the moment but reach out if you have an idea
 - 📫 How to reach me AlexanderLdias2@gmail.com
 
 <!---
